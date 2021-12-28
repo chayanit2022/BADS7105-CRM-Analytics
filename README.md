@@ -9,7 +9,7 @@ This is the BADS7105 CRM Analytics and Intelligence .
 
 # Assignment :
 - [1.CLV_Dashboard](./CLV_dashboard)  
-- [2.Customer Segmentation](./https://github.com/chayanit2022/BADS7105-CRM-Analytics/tree/main#:~:text=Cutomer_Segmentation.ipynb) 
+- [2.Customer Segmentation](./Cutomer_Segmentation.ipynb) 
 - [3.Product Recommendation](./Product_Recommendation_.ipynb) 
 - [4.Campaign Response Model](./Campaign_Response_Model_XGBoost_Tuning.ipynb) 
 - [5.AB Testing](./AB_Testing) 
