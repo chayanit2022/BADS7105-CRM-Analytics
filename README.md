@@ -8,11 +8,11 @@
 This is the BADS7105 CRM Analytics and Intelligence .
 
 # Assignment :
-- [x] [CLV_Dashboard](./CLV_dashboard)  
-- [x] [Customer Segmentation](./Customer_Segmentation_.ipynb) 
-- [x] [Product Recommendation](./Product_Recommendation_.ipynb) 
-- [x] [Campaign Response Model](./Campaign_Response_Model_XGBoost_Tuning.ipynb) 
-- [x] [AB Testing](./AB_Testing) 
-- [x] [Churn Analysis](./Churn%20Analysis) 
-- [x] [Voice of Customer Analytics](./Voice_of_Customer_Analytics.ipynb) 
-- [x] [Design Thinking](./Design_Thinking)
+- [1.CLV_Dashboard](./CLV_dashboard)  
+- [2.Customer Segmentation](./Customer_Segmentation_.ipynb) 
+- [3.Product Recommendation](./Product_Recommendation_.ipynb) 
+- [4.Campaign Response Model](./Campaign_Response_Model_XGBoost_Tuning.ipynb) 
+- [5.AB Testing](./AB_Testing) 
+- [6.Churn Analysis](./Churn%20Analysis) 
+- [7.Voice of Customer Analytics](./Voice_of_Customer_Analytics.ipynb) 
+- [8.Design Thinking](./Design_Thinking)
