@@ -8,7 +8,7 @@
 This is the BADS7105 CRM Analytics and Intelligence .
 
 # Assignment :
-- [1.CLV_Dashboard](./CLV_dashboard)  
+- [1.CLV_Dashboard](./CLV_Dashboard)  
 - [2.Customer Segmentation](./Cutomer_Segmentation.ipynb) 
 - [3.Product Recommendation](./Product_Recoommendation.ipynb) 
 - [4.Campaign Response Model](./Campaign_Response_Model.ipynb) 
